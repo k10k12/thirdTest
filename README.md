@@ -6,7 +6,6 @@
 ## mainEdit
 
 ## braA
-<<<<<<< HEAD
 
 ## mainEdit in braA
 
