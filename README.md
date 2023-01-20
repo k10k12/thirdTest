@@ -6,10 +6,14 @@
 ## mainEdit
 
 ## braA
+<<<<<<< HEAD
 
 ## mainEdit in braA
 
-## main commit
-## braB commit
+## main
+## braB
 
 ## mainEdit in braB
+
+## braC
+## mainEdit in braC
